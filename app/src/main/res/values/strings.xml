@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SpiritAnimal</string>
+    <string name="instructions">HOW MUCH DO YOU AGREE?</string>
+    <string name="Question_one">You are ruthless to your prey.</string>
+    <string-array name="Answers">
+        <item>Select an answer</item>
+        <item>0 - Never!</item>
+        <item>1 - Meh, probably not.</item>
+        <item>2 - ...Maybe</item>
+        <item>3 - Kinda.</item>
+        <item>4 - Yep!</item>
+
+    </string-array>
+    <string name="Question_two">I could swim all day...</string>
+    <string name="Question_three">Bananas are my favorite!</string>
+    <string name="Question_four">A mud bath sounds great</string>
+    <string name="Question_five">A forest would make a great home.</string>
+</resources>
